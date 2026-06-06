@@ -2,7 +2,6 @@
 
 **Developed by [issu321](https://github.com/issu321)**
 
-[![Streamlit App](https://ai-data-scientist-issu321.streamlit.app/)
 
 A complete, production-ready AI-powered data science platform built with Streamlit. Automatically analyze, visualize, and build machine learning models from any CSV dataset.
 
