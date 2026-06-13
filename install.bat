@@ -28,7 +28,6 @@ if not exist assets mkdir assets
 
 echo ✅ Installation complete!
 echo.
-echo To start the app:
-echo   venv\Scripts\activate
-echo   streamlit run streamlit_app.py
+echo   Launching...(Please-Wait)
+streamlit run streamlit_app.py
 pause
